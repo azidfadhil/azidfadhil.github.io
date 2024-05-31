@@ -302,6 +302,9 @@ body {
   margin: 0 0.5em;
   border-radius: 5em;
 }
+.highlight {
+  color: orange !important;
+}
 #footer {
   display: none;
 }
